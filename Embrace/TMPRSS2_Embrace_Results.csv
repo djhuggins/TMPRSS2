@@ -1,0 +1,358 @@
+Drugbank ID,Example Target,PDB ID,Embrace Binding Energy (kJ/mol),Drugbank Link
+DB07658,Prothrombin,1LHD,-288.077,https://www.drugbank.ca/drugs/DB07658
+DB03782,Urokinase-type plasminogen activator,1EJN,-286.108,https://www.drugbank.ca/drugs/DB03782
+DB03213,Trypsin-1,1C2D,-270.444,https://www.drugbank.ca/drugs/DB03213
+DB03213,Trypsin-1,1C2I,-267.394,https://www.drugbank.ca/drugs/DB03213
+DB04107,Trypsin-1,1G2L,-262.479,https://www.drugbank.ca/drugs/DB04107
+DB06859,Prothrombin,1T4V,-259.597,https://www.drugbank.ca/drugs/DB06859
+DB07400,Prothrombin,1AE8,-257.803,https://www.drugbank.ca/drugs/DB07400
+DB07659,Prothrombin,1LHF,-256.717,https://www.drugbank.ca/drugs/DB07659
+DB02354,Trypsin-1,1G2M,-256.06,https://www.drugbank.ca/drugs/DB02354
+DB01737,Trypsin-1,1V2Q,-251.655,https://www.drugbank.ca/drugs/DB01737
+DB07261,Coagulation factor X,1F0R,-249.316,https://www.drugbank.ca/drugs/DB07261
+DB03081,Trypsin-1,1K1N,-243.823,https://www.drugbank.ca/drugs/DB03081
+DB07247,Coagulation factor VII,2FLR,-242.919,https://www.drugbank.ca/drugs/DB07247
+DB07626,Urokinase-type plasminogen activator,2VIW,-242.359,https://www.drugbank.ca/drugs/DB07626
+DB01737,Trypsin-1,1V2P,-241.539,https://www.drugbank.ca/drugs/DB01737
+DB03213,Trypsin-1,1C2H,-239.506,https://www.drugbank.ca/drugs/DB03213
+DB07508,Prothrombin,1KTT,-235.175,https://www.drugbank.ca/drugs/DB07508
+DB04791,Trypsin-1,1Y5A,-234.752,https://www.drugbank.ca/drugs/DB04791
+DB02551,Urokinase-type plasminogen activator,1OWD,-233.937,https://www.drugbank.ca/drugs/DB02551
+DB07076,Urokinase-type plasminogen activator,1OWI,-232.705,https://www.drugbank.ca/drugs/DB07076
+DB01705,Botulinum neurotoxin type B,1C1T,-232.433,https://www.drugbank.ca/drugs/DB01705
+DB02081,Trypsin-1,1V2N,-232.051,https://www.drugbank.ca/drugs/DB02081
+DB02723,Prothrombin,1JWT,-226.108,https://www.drugbank.ca/drugs/DB02723
+DB02269,Trypsin-1,1LPG,-224.024,https://www.drugbank.ca/drugs/DB02269
+DB06858,Prothrombin,2ZHE,-222.9,https://www.drugbank.ca/drugs/DB06858
+DB04772,Prothrombin,1YPL,-222.663,https://www.drugbank.ca/drugs/DB04772
+DB07660,Prothrombin,1LHG,-219.601,https://www.drugbank.ca/drugs/DB07660
+DB02705,Urokinase-type plasminogen activator,1OWK,-219.517,https://www.drugbank.ca/drugs/DB02705
+DB03373,Trypsin-1,1QBO,-219.31,https://www.drugbank.ca/drugs/DB03373
+DB04246,Trypsin-1,1O38,-213.64,https://www.drugbank.ca/drugs/DB04246
+DB04107,Trypsin-1,1OYQ,-212.585,https://www.drugbank.ca/drugs/DB04107
+DB03337,Trypsin-1,1BJV,-212.023,https://www.drugbank.ca/drugs/DB03337
+DB04758,Coagulation factor VII,1WUN,-211.844,https://www.drugbank.ca/drugs/DB04758
+DB01737,Trypsin-1,1V2W,-211.416,https://www.drugbank.ca/drugs/DB01737
+DB07944,Prothrombin,1UVT,-210.698,https://www.drugbank.ca/drugs/DB07944
+DB04424,Trypsin-1,1F0U,-209.923,https://www.drugbank.ca/drugs/DB04424
+DB01737,Trypsin-1,1V2O,-208.308,https://www.drugbank.ca/drugs/DB01737
+DB04424,Trypsin-1,1EZQ,-205.904,https://www.drugbank.ca/drugs/DB04424
+DB08187,Prothrombin,1TOM,-205.046,https://www.drugbank.ca/drugs/DB08187
+DB04767,Coagulation factor VII,1WQV,-203.682,https://www.drugbank.ca/drugs/DB04767
+DB07946,Prothrombin,2R2M,-203.587,https://www.drugbank.ca/drugs/DB07946
+DB07665,Prothrombin,3C27,-202.875,https://www.drugbank.ca/drugs/DB07665
+DB08697,Urokinase-type plasminogen activator,2VIV,-202.098,https://www.drugbank.ca/drugs/DB08697
+DB02398,Urokinase-type plasminogen activator,1OWH,-201.106,https://www.drugbank.ca/drugs/DB02398
+DB04107,Trypsin-1,1G30,-200.456,https://www.drugbank.ca/drugs/DB04107
+DB02354,Trypsin-1,1G36,-200.149,https://www.drugbank.ca/drugs/DB02354
+DB02354,Trypsin-1,1G32,-199.834,https://www.drugbank.ca/drugs/DB02354
+DB02081,Trypsin-1,1A5H,-198.839,https://www.drugbank.ca/drugs/DB02081
+DB03159,Prothrombin,1O5A,-198.628,https://www.drugbank.ca/drugs/DB03159
+DB08420,Trypsin-1,1AUJ,-198.567,https://www.drugbank.ca/drugs/DB08420
+DB04238,Trypsin-1,1K1I,-197.906,https://www.drugbank.ca/drugs/DB04238
+DB01737,Trypsin-1,1V2T,-197.581,https://www.drugbank.ca/drugs/DB01737
+DB04246,Trypsin-1,1O37,-197.069,https://www.drugbank.ca/drugs/DB04246
+DB06858,Prothrombin,2ZQ2,-196.557,https://www.drugbank.ca/drugs/DB06858
+DB07005,Prothrombin,2ZDA,-195.768,https://www.drugbank.ca/drugs/DB07005
+DB03476,Urokinase-type plasminogen activator,1U6Q,-194.011,https://www.drugbank.ca/drugs/DB03476
+DB07639,Prothrombin,1UVU,-193.792,https://www.drugbank.ca/drugs/DB07639
+DB07005,Prothrombin,5MM6,-193.748,https://www.drugbank.ca/drugs/DB07005
+DB01977,Urokinase-type plasminogen activator,1OWE,-192.384,https://www.drugbank.ca/drugs/DB01977
+DB07074,Coagulation factor XI,1ZSK,-191.832,https://www.drugbank.ca/drugs/DB07074
+DB03136,Prothrombin,1C5N,-191.662,https://www.drugbank.ca/drugs/DB03136
+DB06865,Prothrombin,1QJ1,-190.689,https://www.drugbank.ca/drugs/DB06865
+DB04016,Cathepsin G,1T32,-190.148,https://www.drugbank.ca/drugs/DB04016
+DB04792,Trypsin-1,1Y5B,-189.782,https://www.drugbank.ca/drugs/DB04792
+DB04593,Coagulation factor VII,1WSS,-189.178,https://www.drugbank.ca/drugs/DB04593
+DB02084,Trypsin-1,1O2Z,-188.776,https://www.drugbank.ca/drugs/DB02084
+DB07625,Urokinase-type plasminogen activator,2VIQ,-188.759,https://www.drugbank.ca/drugs/DB07625
+DB00594,Amiloride-sensitive sodium channel subunit beta,1F5L,-188.751,https://www.drugbank.ca/drugs/DB00594
+DB03136,Prothrombin,1C5X,-187.493,https://www.drugbank.ca/drugs/DB03136
+DB03213,Trypsin-1,1C2J,-186.176,https://www.drugbank.ca/drugs/DB03213
+DB02081,Trypsin-1,3PLP,-184.561,https://www.drugbank.ca/drugs/DB02081
+DB03136,Prothrombin,1O5B,-184.259,https://www.drugbank.ca/drugs/DB03136
+DB03637,Trypsin-3,1S5S,-183.977,https://www.drugbank.ca/drugs/DB03637
+DB03136,Prothrombin,1C5Q,-183.855,https://www.drugbank.ca/drugs/DB03136
+DB06853,Prothrombin,2ZHD,-183.665,https://www.drugbank.ca/drugs/DB06853
+DB01737,Trypsin-1,3V0X,-183.472,https://www.drugbank.ca/drugs/DB01737
+DB08426,Coagulation factor X,1F0S,-183.458,https://www.drugbank.ca/drugs/DB08426
+DB03136,Prothrombin,1C5W,-183.394,https://www.drugbank.ca/drugs/DB03136
+DB06947,Prothrombin,2ZGX,-182.835,https://www.drugbank.ca/drugs/DB06947
+DB03637,Trypsin-3,2A31,-182.69,https://www.drugbank.ca/drugs/DB03637
+DB01737,Trypsin-1,1V2R,-182.138,https://www.drugbank.ca/drugs/DB01737
+DB04336,Trypsin-1,1BJU,-181.684,https://www.drugbank.ca/drugs/DB04336
+DB03136,Prothrombin,1C5R,-181.434,https://www.drugbank.ca/drugs/DB03136
+DB01737,Trypsin-1,3UNS,-180.615,https://www.drugbank.ca/drugs/DB01737
+DB06866,Prothrombin,1QJ6,-180.314,https://www.drugbank.ca/drugs/DB06866
+DB03702,Chymotrypsin-like elastase family member 1,1MMJ,-180.155,https://www.drugbank.ca/drugs/DB03702
+DB04790,Trypsin-1,1Y59,-180.077,https://www.drugbank.ca/drugs/DB04790
+DB04301,Trypsin-1,1C1W,-179.683,https://www.drugbank.ca/drugs/DB04301
+DB03608,Amiloride-sensitive amine oxidase [copper-containing],5TP0,-179.673,https://www.drugbank.ca/drugs/DB03608
+DB04606,Coagulation factor VII,1WV7,-179.382,https://www.drugbank.ca/drugs/DB04606
+DB07122,Urokinase-type plasminogen activator,2R2W,-178.629,https://www.drugbank.ca/drugs/DB07122
+DB07095,Prothrombin,2ZDN,-178.269,https://www.drugbank.ca/drugs/DB07095
+DB07212,Coagulation factor XI,1ZSJ,-176.529,https://www.drugbank.ca/drugs/DB07212
+DB03876,Urokinase-type plasminogen activator,1C5T,-176.491,https://www.drugbank.ca/drugs/DB03876
+DB07985,Trypsin-1,1AZ8,-176.088,https://www.drugbank.ca/drugs/DB07985
+DB03876,Urokinase-type plasminogen activator,1C5Y,-175.832,https://www.drugbank.ca/drugs/DB03876
+DB04301,Trypsin-1,1C2F,-175.465,https://www.drugbank.ca/drugs/DB04301
+DB04125,Trypsin-1,1K1M,-175.216,https://www.drugbank.ca/drugs/DB04125
+DB02063,Trypsin-1,1O2X,-174.546,https://www.drugbank.ca/drugs/DB02063
+DB07548,Prothrombin,1MU6,-174.227,https://www.drugbank.ca/drugs/DB07548
+DB07366,Prothrombin,1AFE,-174.183,https://www.drugbank.ca/drugs/DB07366
+DB03555,Trypsin-1,1O5C,-173.832,https://www.drugbank.ca/drugs/DB03555
+DB06996,Prothrombin,2ZNK,-173.744,https://www.drugbank.ca/drugs/DB06996
+DB01737,Trypsin-1,3UWI,-173.115,https://www.drugbank.ca/drugs/DB01737
+DB04269,Trypsin-1,1TYN,-172.453,https://www.drugbank.ca/drugs/DB04269
+DB01745,Trypsin-1,1K1J,-171.831,https://www.drugbank.ca/drugs/DB01745
+DB04722,Prothrombin,1Z71,-171.706,https://www.drugbank.ca/drugs/DB04722
+DB04442,Trypsin-1,1GI7,-171.669,https://www.drugbank.ca/drugs/DB04442
+DB04446,Trypsin-1,1C5S,-171.44,https://www.drugbank.ca/drugs/DB04446
+DB06850,Prothrombin,2ZQ1,-171.197,https://www.drugbank.ca/drugs/DB06850
+DB04311,Trypsin-1,1UTP,-171.133,https://www.drugbank.ca/drugs/DB04311
+DB01741,Trypsin-1,1O30,-171.028,https://www.drugbank.ca/drugs/DB01741
+DB02288,Trypsin-1,1O3J,-170.47,https://www.drugbank.ca/drugs/DB02288
+DB01725,Prothrombin,1O39,-169.677,https://www.drugbank.ca/drugs/DB01725
+DB06845,Prothrombin,3BIU,-169.446,https://www.drugbank.ca/drugs/DB06845
+DB03173,Trypsin-1,1O2H,-168.71,https://www.drugbank.ca/drugs/DB03173
+DB02744,Trypsin-1,1F0T,-168.292,https://www.drugbank.ca/drugs/DB02744
+DB04301,Trypsin-1,1C2G,-168.266,https://www.drugbank.ca/drugs/DB04301
+DB02288,Trypsin-1,1O3K,-167.921,https://www.drugbank.ca/drugs/DB02288
+DB01767,Prothrombin,1C1R,-166.702,https://www.drugbank.ca/drugs/DB01767
+DB03595,Trypsin-1,1O3O,-166.044,https://www.drugbank.ca/drugs/DB03595
+DB04771,Prothrombin,1YPM,-165.725,https://www.drugbank.ca/drugs/DB04771
+DB04470,Trypsin-1,1O2K,-165.648,https://www.drugbank.ca/drugs/DB04470
+DB07521,Prothrombin,2BXT,-165.213,https://www.drugbank.ca/drugs/DB07521
+DB04109,Trypsin-3,1S85,-164.48,https://www.drugbank.ca/drugs/DB04109
+DB01705,Botulinum neurotoxin type B,1XUG,-164.434,https://www.drugbank.ca/drugs/DB01705
+DB04470,Trypsin-1,1O2J,-164.098,https://www.drugbank.ca/drugs/DB04470
+DB01705,Botulinum neurotoxin type B,1C1V,-164.061,https://www.drugbank.ca/drugs/DB01705
+DB07550,Prothrombin,1MUE,-163.904,https://www.drugbank.ca/drugs/DB07550
+DB03243,Trypsin-1,1TNH,-163.871,https://www.drugbank.ca/drugs/DB03243
+DB02063,Trypsin-1,1O2Y,-163.829,https://www.drugbank.ca/drugs/DB02063
+DB07207,Coagulation factor VII,2FLB,-163.536,https://www.drugbank.ca/drugs/DB07207
+DB03890,Chymotrypsin-like elastase family member 1,1HV7,-163.275,https://www.drugbank.ca/drugs/DB03890
+DB03159,Prothrombin,1O3F,-163.188,https://www.drugbank.ca/drugs/DB03159
+DB03159,Prothrombin,1O3G,-163.188,https://www.drugbank.ca/drugs/DB03159
+DB06942,Prothrombin,2ZHQ,-162.923,https://www.drugbank.ca/drugs/DB06942
+DB07229,Trypsin-1,1O2T,-162.318,https://www.drugbank.ca/drugs/DB07229
+DB02063,Trypsin-1,1O2W,-162.285,https://www.drugbank.ca/drugs/DB02063
+DB03159,Prothrombin,1O3E,-162.032,https://www.drugbank.ca/drugs/DB03159
+DB07022,Coagulation factor XI,1ZRK,-162.032,https://www.drugbank.ca/drugs/DB07022
+DB01876,Trypsin-1,1XUI,-161.979,https://www.drugbank.ca/drugs/DB01876
+DB02526,Urokinase-type plasminogen activator,1O3P,-161.837,https://www.drugbank.ca/drugs/DB02526
+DB01725,Prothrombin,1O3C,-161.286,https://www.drugbank.ca/drugs/DB01725
+DB04016,Cathepsin G,1T31,-160.015,https://www.drugbank.ca/drugs/DB04016
+DB01725,Prothrombin,1O3D,-159.947,https://www.drugbank.ca/drugs/DB01725
+DB03016,Trypsin-1,1O34,-159.904,https://www.drugbank.ca/drugs/DB03016
+DB03555,Trypsin-1,1O2R,-159.688,https://www.drugbank.ca/drugs/DB03555
+DB03595,Trypsin-1,1O3N,-159.519,https://www.drugbank.ca/drugs/DB03595
+DB02063,Trypsin-1,1O2U,-159.338,https://www.drugbank.ca/drugs/DB02063
+DB01725,Prothrombin,1O3B,-159.012,https://www.drugbank.ca/drugs/DB01725
+DB02526,Urokinase-type plasminogen activator,1O2I,-158.34,https://www.drugbank.ca/drugs/DB02526
+DB07549,Prothrombin,1MU8,-158.301,https://www.drugbank.ca/drugs/DB07549
+DB07143,Prothrombin,2ZFF,-157.376,https://www.drugbank.ca/drugs/DB07143
+DB07165,Prothrombin,2BVX,-156.207,https://www.drugbank.ca/drugs/DB07165
+DB06845,Prothrombin,2ZFT,-155.993,https://www.drugbank.ca/drugs/DB06845
+DB01876,Trypsin-1,1XUH,-155.478,https://www.drugbank.ca/drugs/DB01876
+DB02435,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,1TNG,-154.676,https://www.drugbank.ca/drugs/DB02435
+DB02308,Trypsin-3,1S84,-154.65,https://www.drugbank.ca/drugs/DB02308
+DB08184,Trypsin-1,2G8T,-154.271,https://www.drugbank.ca/drugs/DB08184
+DB08232,Coagulation factor VII,2F9B,-154.096,https://www.drugbank.ca/drugs/DB08232
+DB03876,Urokinase-type plasminogen activator,1C5U,-153.836,https://www.drugbank.ca/drugs/DB03876
+DB01905,Urokinase-type plasminogen activator,1GI9,-153.063,https://www.drugbank.ca/drugs/DB01905
+DB07843,Coagulation factor X,2J38,-151.733,https://www.drugbank.ca/drugs/DB07843
+DB07680,Chymase,2HVX,-151.553,https://www.drugbank.ca/drugs/DB07680
+DB03213,Trypsin-1,1C2E,-151.07,https://www.drugbank.ca/drugs/DB03213
+DB04442,Trypsin-1,1GHZ,-150.946,https://www.drugbank.ca/drugs/DB04442
+DB03081,Trypsin-1,1YPK,-150.89,https://www.drugbank.ca/drugs/DB03081
+DB07956,Chymotrypsin-like elastase family member 1,1INC,-150.258,https://www.drugbank.ca/drugs/DB07956
+DB03865,Prothrombin,1O5E,-150.149,https://www.drugbank.ca/drugs/DB03865
+DB04591,Prothrombin,1ZGI,-149.854,https://www.drugbank.ca/drugs/DB04591
+DB04697,Prothrombin,1XM1,-149.603,https://www.drugbank.ca/drugs/DB04697
+DB07131,Prothrombin,2ZG0,-149.572,https://www.drugbank.ca/drugs/DB07131
+DB03595,Trypsin-1,1O3M,-148.661,https://www.drugbank.ca/drugs/DB03595
+DB01705,Botulinum neurotoxin type B,1XUK,-148.622,https://www.drugbank.ca/drugs/DB01705
+DB06845,Prothrombin,3LJJ,-148.402,https://www.drugbank.ca/drugs/DB06845
+DB07368,Trypsin-1,1TX8,-148.326,https://www.drugbank.ca/drugs/DB07368
+DB07515,Prothrombin,2BXU,-147.887,https://www.drugbank.ca/drugs/DB07515
+DB07091,Prothrombin,2ZDM,-146.734,https://www.drugbank.ca/drugs/DB07091
+DB03016,Trypsin-1,1O32,-146.627,https://www.drugbank.ca/drugs/DB03016
+DB03016,Trypsin-1,1O31,-146.562,https://www.drugbank.ca/drugs/DB03016
+DB07088,Prothrombin,2ZFQ,-145.263,https://www.drugbank.ca/drugs/DB07088
+DB04059,Urokinase-type plasminogen activator,1SQO,-145.227,https://www.drugbank.ca/drugs/DB04059
+DB01705,Botulinum neurotoxin type B,1C1S,-145.043,https://www.drugbank.ca/drugs/DB01705
+DB06853,Prothrombin,2ZFS,-145.019,https://www.drugbank.ca/drugs/DB06853
+DB03082,Urokinase-type plasminogen activator,1SQA,-144.857,https://www.drugbank.ca/drugs/DB03082
+DB06850,Prothrombin,3LJO,-144.851,https://www.drugbank.ca/drugs/DB06850
+DB06605,Coagulation factor X,2P16,-143.447,https://www.drugbank.ca/drugs/DB06605
+DB01767,Prothrombin,1C1Q,-143.042,https://www.drugbank.ca/drugs/DB01767
+DB06853,Prothrombin,2ZHW,-142.909,https://www.drugbank.ca/drugs/DB06853
+DB03865,Prothrombin,1GJ4,-141.997,https://www.drugbank.ca/drugs/DB03865
+DB06929,Prothrombin,2ZI2,-141.438,https://www.drugbank.ca/drugs/DB06929
+DB01836,Trypsin-1,1QL8,-141.354,https://www.drugbank.ca/drugs/DB01836
+DB07071,Coagulation factor XI,1ZML,-140.964,https://www.drugbank.ca/drugs/DB07071
+DB07091,Prothrombin,2ZFR,-140.854,https://www.drugbank.ca/drugs/DB07091
+DB07934,Prothrombin,1UVS,-140.619,https://www.drugbank.ca/drugs/DB07934
+DB07211,Prothrombin,2JH0,-140.389,https://www.drugbank.ca/drugs/DB07211
+DB02459,Complement factor B,1GBT,-139.717,https://www.drugbank.ca/drugs/DB02459
+DB02045,Trypsin-1,1JIR,-139.471,https://www.drugbank.ca/drugs/DB02045
+DB07133,Prothrombin,2ZF0,-139.425,https://www.drugbank.ca/drugs/DB07133
+DB03129,Trypsin-3,1S6F,-138.901,https://www.drugbank.ca/drugs/DB03129
+DB06918,Trypsin-1,2G5V,-138.476,https://www.drugbank.ca/drugs/DB06918
+DB07095,Prothrombin,2ZHF,-138.264,https://www.drugbank.ca/drugs/DB07095
+DB02463,Trypsin-1,1GI6,-137.77,https://www.drugbank.ca/drugs/DB02463
+DB07088,Prothrombin,2ZDL,-137.302,https://www.drugbank.ca/drugs/DB07088
+DB07027,Prothrombin,2ZDV,-136.839,https://www.drugbank.ca/drugs/DB07027
+DB04215,Trypsin-1,1O3I,-135.931,https://www.drugbank.ca/drugs/DB04215
+DB02989,Trypsin-1,1O2P,-135.307,https://www.drugbank.ca/drugs/DB02989
+DB03046,Urokinase-type plasminogen activator,1SQT,-134.994,https://www.drugbank.ca/drugs/DB03046
+DB03159,Prothrombin,1O2G,-134.874,https://www.drugbank.ca/drugs/DB03159
+DB01905,Urokinase-type plasminogen activator,1GI5,-133.501,https://www.drugbank.ca/drugs/DB01905
+DB03555,Trypsin-1,1O5D,-133.484,https://www.drugbank.ca/drugs/DB03555
+DB03608,Amiloride-sensitive amine oxidase [copper-containing],3GY5,-133.4,https://www.drugbank.ca/drugs/DB03608
+DB03608,Amiloride-sensitive amine oxidase [copper-containing],3GY6,-132.806,https://www.drugbank.ca/drugs/DB03608
+DB04215,Trypsin-1,1O3H,-132.718,https://www.drugbank.ca/drugs/DB04215
+DB08072,Urokinase-type plasminogen activator,2VIP,-132.541,https://www.drugbank.ca/drugs/DB08072
+DB03202,Chymotrypsin-like elastase family member 1,1EAT,-131.618,https://www.drugbank.ca/drugs/DB03202
+DB04442,Trypsin-1,1GHV,-131.259,https://www.drugbank.ca/drugs/DB04442
+DB06919,Prothrombin,5MLS,-130.628,https://www.drugbank.ca/drugs/DB06919
+DB03643,Trypsin-1,1O2S,-130.4,https://www.drugbank.ca/drugs/DB03643
+DB07278,Prothrombin,2JH5,-130.235,https://www.drugbank.ca/drugs/DB07278
+DB02541,Trypsin-3,1S83,-130.014,https://www.drugbank.ca/drugs/DB02541
+DB03555,Trypsin-1,1O5G,-128.892,https://www.drugbank.ca/drugs/DB03555
+DB07491,Trypsin-1,3ITI,-128.799,https://www.drugbank.ca/drugs/DB07491
+DB04459,Complement factor D,1DIC,-127.984,https://www.drugbank.ca/drugs/DB04459
+DB07957,Chymotrypsin-like elastase family member 1,1JIM,-127.412,https://www.drugbank.ca/drugs/DB07957
+DB03016,Trypsin-1,1O33,-127.004,https://www.drugbank.ca/drugs/DB03016
+DB02287,Prothrombin,1GHX,-126.441,https://www.drugbank.ca/drugs/DB02287
+DB03417,Trypsin-1,1RXP,-126.117,https://www.drugbank.ca/drugs/DB03417
+DB02287,Prothrombin,1GI8,-125.797,https://www.drugbank.ca/drugs/DB02287
+DB06936,Prothrombin,2ZIQ,-125.416,https://www.drugbank.ca/drugs/DB06936
+DB03643,Trypsin-1,1P57,-125.353,https://www.drugbank.ca/drugs/DB03643
+DB02585,Trypsin-3,1S6H,-125.336,https://www.drugbank.ca/drugs/DB02585
+DB07023,Coagulation factor XI,1ZLR,-125.138,https://www.drugbank.ca/drugs/DB07023
+DB02875,Trypsin-1,1O35,-124.866,https://www.drugbank.ca/drugs/DB02875
+DB02287,Prothrombin,1GHW,-124.379,https://www.drugbank.ca/drugs/DB02287
+DB03865,Prothrombin,1GJ6,-123.753,https://www.drugbank.ca/drugs/DB03865
+DB03608,Amiloride-sensitive amine oxidase [copper-containing],3GY2,-123.1,https://www.drugbank.ca/drugs/DB03608
+DB07844,Coagulation factor X,2J34,-122.983,https://www.drugbank.ca/drugs/DB07844
+DB02366,Trypsin-1,1O2N,-122.972,https://www.drugbank.ca/drugs/DB02366
+DB08174,Coagulation factor X,2P95,-122.156,https://www.drugbank.ca/drugs/DB08174
+DB03046,Urokinase-type plasminogen activator,4FUI,-121.666,https://www.drugbank.ca/drugs/DB03046
+DB02459,Complement factor B,2AH4,-120.369,https://www.drugbank.ca/drugs/DB02459
+DB02366,Trypsin-1,1O2L,-120.264,https://www.drugbank.ca/drugs/DB02366
+DB01771,Trypsin-1,1O2Q,-120.095,https://www.drugbank.ca/drugs/DB01771
+DB02287,Prothrombin,1GI2,-119.516,https://www.drugbank.ca/drugs/DB02287
+DB03865,Prothrombin,1GJ7,-119.419,https://www.drugbank.ca/drugs/DB03865
+DB07190,Prothrombin,3DUX,-119.351,https://www.drugbank.ca/drugs/DB07190
+DB06919,Prothrombin,2ZC9,-119.036,https://www.drugbank.ca/drugs/DB06919
+DB01836,Trypsin-1,1V2K,-118.441,https://www.drugbank.ca/drugs/DB01836
+DB07277,Prothrombin,2JH6,-117.467,https://www.drugbank.ca/drugs/DB07277
+DB06855,Urokinase-type plasminogen activator,1O2O,-115.829,https://www.drugbank.ca/drugs/DB06855
+DB02287,Prothrombin,1GI0,-115.177,https://www.drugbank.ca/drugs/DB02287
+DB03608,Amiloride-sensitive amine oxidase [copper-containing],3GY8,-114.955,https://www.drugbank.ca/drugs/DB03608
+DB02287,Prothrombin,1GI1,-114.828,https://www.drugbank.ca/drugs/DB02287
+DB02287,Prothrombin,1GI4,-114.636,https://www.drugbank.ca/drugs/DB02287
+DB02287,Prothrombin,1GI3,-114.596,https://www.drugbank.ca/drugs/DB02287
+DB03637,Trypsin-3,2A32,-114.419,https://www.drugbank.ca/drugs/DB03637
+DB07131,Prothrombin,2ZDK,-114.147,https://www.drugbank.ca/drugs/DB07131
+DB08746,Coagulation factor X,1IQM,-114.006,https://www.drugbank.ca/drugs/DB08746
+DB01767,Prothrombin,1C1U,-113.113,https://www.drugbank.ca/drugs/DB01767
+DB01939,Trypsin-1,1C2K,-112.556,https://www.drugbank.ca/drugs/DB01939
+DB07277,Prothrombin,2UWP,-112.131,https://www.drugbank.ca/drugs/DB07277
+DB06850,Prothrombin,3BIV,-111.596,https://www.drugbank.ca/drugs/DB06850
+DB06901,Chymotrypsin-like elastase family member 2A,1BRU,-110.773,https://www.drugbank.ca/drugs/DB06901
+DB07279,Prothrombin,2UUJ,-109.435,https://www.drugbank.ca/drugs/DB07279
+DB02063,Trypsin-1,1O2V,-109.205,https://www.drugbank.ca/drugs/DB02063
+DB01725,Prothrombin,1GJC,-108.413,https://www.drugbank.ca/drugs/DB01725
+DB01725,Prothrombin,1GJB,-108.306,https://www.drugbank.ca/drugs/DB01725
+DB06855,Urokinase-type plasminogen activator,1GJ8,-108.097,https://www.drugbank.ca/drugs/DB06855
+DB06923,Trypsin-1,2G5N,-106.975,https://www.drugbank.ca/drugs/DB06923
+DB03555,Trypsin-1,1O5F,-106.739,https://www.drugbank.ca/drugs/DB03555
+DB02366,Trypsin-1,1O2M,-105.273,https://www.drugbank.ca/drugs/DB02366
+DB03976,Trypsin-1,1NTP,-105.077,https://www.drugbank.ca/drugs/DB03976
+DB08173,Coagulation factor X,2P93,-104.61,https://www.drugbank.ca/drugs/DB08173
+DB04563,Trypsin-1,1O3L,-104.206,https://www.drugbank.ca/drugs/DB04563
+DB04590,Coagulation factor VII,2BZ6,-103.888,https://www.drugbank.ca/drugs/DB04590
+DB08763,Trypsin-1,1MAX,-103.07,https://www.drugbank.ca/drugs/DB08763
+DB02459,Complement factor B,3RXJ,-101.253,https://www.drugbank.ca/drugs/DB02459
+DB06911,Prothrombin,2ZGB,-100.22,https://www.drugbank.ca/drugs/DB06911
+DB03976,Trypsin-1,1GMH,-99.837,https://www.drugbank.ca/drugs/DB03976
+DB01836,Trypsin-1,1QL7,-99.797,https://www.drugbank.ca/drugs/DB01836
+DB07974,Coagulation factor X,2BQW,-99.544,https://www.drugbank.ca/drugs/DB07974
+DB07630,Coagulation factor X,2EI7,-99.349,https://www.drugbank.ca/drugs/DB07630
+DB07128,Prothrombin,1ZGV,-98.87,https://www.drugbank.ca/drugs/DB07128
+DB03976,Trypsin-1,1TRY,-98.582,https://www.drugbank.ca/drugs/DB03976
+DB01836,Trypsin-1,1QL9,-97.972,https://www.drugbank.ca/drugs/DB01836
+DB01836,Trypsin-1,1J17,-97.465,https://www.drugbank.ca/drugs/DB01836
+DB03976,Trypsin-1,1TRN,-96.658,https://www.drugbank.ca/drugs/DB03976
+DB06868,Prothrombin,3DT0,-92.967,https://www.drugbank.ca/drugs/DB06868
+DB02435,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,5PAA,-91.894,https://www.drugbank.ca/drugs/DB02435
+DB07527,Prothrombin,2C93,-90.895,https://www.drugbank.ca/drugs/DB07527
+DB01725,Prothrombin,1O3A,-90.749,https://www.drugbank.ca/drugs/DB01725
+DB00302,Plasminogen,6NMB,-89.602,https://www.drugbank.ca/drugs/DB00302
+DB08614,Chymotrypsin-like elastase family member 1,1EAS,-88.96,https://www.drugbank.ca/drugs/DB08614
+DB07077,Coagulation factor XI,1ZMN,-87.047,https://www.drugbank.ca/drugs/DB07077
+DB01725,Prothrombin,1GJ5,-86.57,https://www.drugbank.ca/drugs/DB01725
+DB07848,Coagulation factor X,2J2U,-86.101,https://www.drugbank.ca/drugs/DB07848
+DB03757,Chymotrypsin-like elastase family member 1,1ELG,-84.009,https://www.drugbank.ca/drugs/DB03757
+DB08488,Coagulation factor X,1NFW,-83.307,https://www.drugbank.ca/drugs/DB08488
+DB07804,Coagulation factor X,2J94,-82.109,https://www.drugbank.ca/drugs/DB07804
+DB07129,Urokinase-type plasminogen activator,2VIN,-81.811,https://www.drugbank.ca/drugs/DB07129
+DB06951,Chymotrypsin-like elastase family member 1,1BTU,-81.089,https://www.drugbank.ca/drugs/DB06951
+DB06920,Coagulation factor X,2PHB,-80.378,https://www.drugbank.ca/drugs/DB06920
+DB07120,Prothrombin,1NO9,-76.084,https://www.drugbank.ca/drugs/DB07120
+DB02473,Urokinase-type plasminogen activator,1OWJ,-75.002,https://www.drugbank.ca/drugs/DB02473
+DB03058,Complement factor D,1BIO,-74.14,https://www.drugbank.ca/drugs/DB03058
+DB06228,Coagulation factor X,5VOF,-72.49,https://www.drugbank.ca/drugs/DB06228
+DB07522,Prothrombin,2C8Y,-71.115,https://www.drugbank.ca/drugs/DB07522
+DB01977,Urokinase-type plasminogen activator,4FU9,-70.621,https://www.drugbank.ca/drugs/DB01977
+DB07847,Coagulation factor X,2CJI,-66.105,https://www.drugbank.ca/drugs/DB07847
+DB03729,Urokinase-type plasminogen activator,1FV9,-64.989,https://www.drugbank.ca/drugs/DB03729
+DB07809,Prothrombin,2PKS,-64.787,https://www.drugbank.ca/drugs/DB07809
+DB01767,Prothrombin,1C1P,-64.596,https://www.drugbank.ca/drugs/DB01767
+DB08152,Prothrombin,3EGK,-60.301,https://www.drugbank.ca/drugs/DB08152
+DB07605,Coagulation factor X,2D1J,-59.83,https://www.drugbank.ca/drugs/DB07605
+DB08061,Prothrombin,1WAY,-59.468,https://www.drugbank.ca/drugs/DB08061
+DB08495,Coagulation factor X,1NFY,-59.191,https://www.drugbank.ca/drugs/DB08495
+DB04369,Trypsin-3,1S82,-59.03,https://www.drugbank.ca/drugs/DB04369
+DB02459,Complement factor B,3DFL,-55.711,https://www.drugbank.ca/drugs/DB02459
+DB06878,Prothrombin,2ZFP,-55.335,https://www.drugbank.ca/drugs/DB06878
+DB06900,Prostasin,3FVF,-54.345,https://www.drugbank.ca/drugs/DB06900
+DB08143,Coagulation factor X,2VWO,-53.879,https://www.drugbank.ca/drugs/DB08143
+DB08487,Coagulation factor X,1NFU,-53.84,https://www.drugbank.ca/drugs/DB08487
+DB06857,Urokinase-type plasminogen activator,1GJD,-53.19,https://www.drugbank.ca/drugs/DB06857
+DB01665,Trypsin-1,2FX6,-51.921,https://www.drugbank.ca/drugs/DB01665
+DB06228,Coagulation factor X,2W26,-50.939,https://www.drugbank.ca/drugs/DB06228
+DB07211,Prothrombin,2UWO,-50.247,https://www.drugbank.ca/drugs/DB07211
+DB04673,Coagulation factor X,1WU1,-48.883,https://www.drugbank.ca/drugs/DB04673
+DB07800,Coagulation factor X,3CEN,-48.262,https://www.drugbank.ca/drugs/DB07800
+DB06861,Prothrombin,1QHR,-45.535,https://www.drugbank.ca/drugs/DB06861
+DB01665,Trypsin-1,2FPZ,-44.838,https://www.drugbank.ca/drugs/DB01665
+DB07875,Coagulation factor X,2VWN,-44.251,https://www.drugbank.ca/drugs/DB07875
+DB07872,Coagulation factor X,2VVU,-41.471,https://www.drugbank.ca/drugs/DB07872
+DB04654,Tryptase beta-2,2FWW,-40.26,https://www.drugbank.ca/drugs/DB04654
+DB07083,Prothrombin,3DA9,-40.217,https://www.drugbank.ca/drugs/DB07083
+DB08745,Coagulation factor X,1IQL,-37.984,https://www.drugbank.ca/drugs/DB08745
+DB04311,Trypsin-1,1TNI,-35.823,https://www.drugbank.ca/drugs/DB04311
+DB08062,Prothrombin,1WBG,-34.271,https://www.drugbank.ca/drugs/DB08062
+DB07299,Coagulation factor XI,1ZPB,-32.243,https://www.drugbank.ca/drugs/DB07299
+DB07105,Prothrombin,2BVR,-25.887,https://www.drugbank.ca/drugs/DB07105
+DB06856,Urokinase-type plasminogen activator,1GJ9,-20.649,https://www.drugbank.ca/drugs/DB06856
+DB07433,Chymotrypsin-like elastase family member 1,1ELF,-16.613,https://www.drugbank.ca/drugs/DB07433
+DB07278,Prothrombin,2UWL,-15.574,https://www.drugbank.ca/drugs/DB07278
+DB01665,Trypsin-1,1QA0,-12.396,https://www.drugbank.ca/drugs/DB01665
+DB07955,Chymotrypsin-like elastase family member 1,9EST,-6.653,https://www.drugbank.ca/drugs/DB07955
+DB08007,Chymotrypsin-like elastase family member 1,2V35,-3.856,https://www.drugbank.ca/drugs/DB08007
+DB04654,Tryptase beta-2,2FX4,11.443,https://www.drugbank.ca/drugs/DB04654
+DB02398,Urokinase-type plasminogen activator,4FUC,72.084,https://www.drugbank.ca/drugs/DB02398
+DB07629,Coagulation factor X,2EI6,5178.903,https://www.drugbank.ca/drugs/DB07629
+DB04432,Trypsin-1,1QB6,6162.545,https://www.drugbank.ca/drugs/DB04432
+DB04793,Trypsin-1,1Y5U,6195.939,https://www.drugbank.ca/drugs/DB04793
+DB07796,Prothrombin,1OYT,6215.68,https://www.drugbank.ca/drugs/DB07796
+DB08546,Prothrombin,1VZQ,6254.711,https://www.drugbank.ca/drugs/DB08546
+DB01737,Trypsin-1,3PWC,6255.782,https://www.drugbank.ca/drugs/DB01737
+DB02269,Trypsin-1,1LQE,7225.573,https://www.drugbank.ca/drugs/DB02269
+DB01737,Trypsin-1,3PLK,7269.708,https://www.drugbank.ca/drugs/DB01737
+DB07741,Prothrombin,2CN0,11787.997,https://www.drugbank.ca/drugs/DB07741
